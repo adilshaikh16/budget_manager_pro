@@ -1,3 +1,5 @@
+st.write("App started successfully")
+
 """
 Budget Manager Pro — Streamlit Edition (app.py)
 - SQLite backend (budget_streamlit.db)
