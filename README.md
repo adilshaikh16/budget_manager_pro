@@ -1,18 +1,19 @@
 # 💰 Budget Manager Pro (PKR Edition)
-A modern Streamlit-based expense and budget tracker app.
+A professional Streamlit-based expense and budget tracker app.
 
 ### 🔧 How to Run
-1. Clone this repo or download zip.
-2. Run the following command:
-   streamlit run app.py
-3. OR deploy directly to Streamlit Cloud:
-   https://share.streamlit.io
+1. Upload these files to your GitHub repo.
+2. Go to [streamlit.io/cloud](https://share.streamlit.io)
+3. Link your GitHub repo.
+4. Set main file: app.py
+5. Click Deploy 🚀
 
 ### ✨ Features
-- Multi-account (Cash, Bank, etc.)
-- Add Income / Expenses
+- Multi-account (Cash, Bank, Easypaisa, JazzCash)
+- Add Income / Expense
 - Real-time Dashboard
-- SQLite Database (no CSV loss)
+- SQLite Database (data saved automatically)
 - Export to Excel
 - PKR Currency Support
-- Dark Mode Theme
+- Dark Theme
+- Mahnoor & Adil Edition 💞
