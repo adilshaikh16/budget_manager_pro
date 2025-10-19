@@ -46,7 +46,7 @@ init_db()
 
 # ===================== SIDEBAR =====================
 st.sidebar.title("💼 Budget Manager Pro")
-st.sidebar.markdown("**Edition:** Mahnoor & Adil 💞")
+st.sidebar.markdown("**Edition:** v1.0 By Adil")
 st.sidebar.markdown("---")
 
 menu = st.sidebar.radio("Navigate", ["📊 Dashboard", "➕ Add Transaction", "📁 View Records", "📤 Export Data"])
